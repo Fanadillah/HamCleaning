@@ -16,9 +16,9 @@
 ---
 
 ## Teknologi yang Digunakan
-- Frontend: HTML, CSS, JavaScript (atau framework tertentu)
-- Backend: Node.js/Express (atau sesuai pilihan)
-- Database: MySQL/MongoDB/Firebase
+- Frontend: Laravel Blade, Tailwind
+- Backend: Laravel
+- Database: MySQL
 
 ---
 
